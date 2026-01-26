@@ -23,5 +23,5 @@ plt.title("Top 10 Products by Sales Quantity")
 plt.xlabel("Total Quantity Sold")
 plt.ylabel("Product Name")
 plt.show()
-print("success")
+
 
